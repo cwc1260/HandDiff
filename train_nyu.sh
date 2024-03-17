@@ -1,0 +1,1 @@
+python3 train_diff.py --gpu 0 --dataset nyu --dataset_path /workspace/dataset/NYU --iters 500
