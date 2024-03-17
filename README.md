@@ -44,7 +44,7 @@ If you find our code useful for your research, please cite our paper
 ```
 @inproceedings{cheng2024handdiff,
   title={HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud},
-  author={Cheng, Wencan, Hao Tang, Luc Van Gool and Ko, Jong Hwan},
+  author={Cheng, Wencan and Tang, Hao and Van Gool, Luc and Ko, Jong Hwan},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
