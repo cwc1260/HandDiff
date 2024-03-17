@@ -24,7 +24,7 @@ Our model is trained and tested under:
 
 2. Install PointNet++ CUDA operations
 
-    follow the instructions in the './train_eval/pointnet2' for installation 
+    follow the instructions in the './pointnet2' for installation 
 
 3. Evaluate
 
