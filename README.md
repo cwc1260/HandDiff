@@ -1,8 +1,10 @@
 # HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud
 
-This is the implementation of the manuscript
+Wencan Cheng, Hao Tang, Luc Van Gool and Jong Hwan Ko
 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
+---
 ## Prerequisities
 Our model is trained and tested under:
 * Python 3.6.9
@@ -38,7 +40,18 @@ Our model is trained and tested under:
 
     execute ``` sh train_nyu.sh```
 
+If you find our code useful for your research, please cite our paper
+```
+@inproceedings{cheng2021handdiff,
+  title={HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud},
+  author={Cheng, Wencan, Hao Tang, Luc Van Gool and Ko, Jong Hwan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision and Pattern Recognition},
+  year={2024}
+}
+```
 
 ## Acknowledgement
 
 We thank [repo](https://github.com/PengfeiRen96/IPNet) for the image-point cloud framework.
+
+
