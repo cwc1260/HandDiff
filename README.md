@@ -3,6 +3,7 @@
 Wencan Cheng, Hao Tang, Luc Van Gool and Jong Hwan Ko
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+*Highlight
 
 ---
 ## Prerequisities
